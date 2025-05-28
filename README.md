@@ -13,10 +13,14 @@ K-Means clustering analysis of weather patterns using Open-Meteo API data.
 
 ## How to Use
 1. View the notebook directly on GitHub
-2. Or run locally:
+2. or ## Launch in Binder
+
+Click the badge below to launch the Jupyter Notebook in Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RedwanAhmedTapu/weather-analysis/HEAD?filepath=weather_analysis.ipynb)
+
+3. Or run locally:
 ```bash
 git clone https://github.com/yourusername/weather-analysis.git
 cd weather-analysis
 pip install -r requirements.txt
-jupyter notebook
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/weather-clustering/HEAD?filepath=weather_analysis.ipynb)
